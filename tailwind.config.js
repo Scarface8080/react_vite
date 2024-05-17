@@ -1,11 +1,11 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
+// /** @type {import('tailwindcss').Config} */
+// export default {
+//   content: [],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+// }
 
 /* Github Gist  https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1 */
 
