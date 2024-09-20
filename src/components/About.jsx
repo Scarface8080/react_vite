@@ -62,7 +62,9 @@ const About = () => {
 
     <motion.p  variants={fadeIn("", "", 0.1, 1)}
      className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]' >
-      <a href="https://app.daily.dev/scarface8080"><img src="https://api.daily.dev/devcards/v2/aQroGXGpbIohm2vBZdOh1.png?type=default&r=y10" width="356" alt="hamza shoukat's Dev Card"/></a>
+      <a href="https://app.daily.dev/scarface8080">
+        <img src="https://api.daily.dev/devcards/v2/aQroGXGpbIohm2vBZdOh1.png?type=default&r=y10" width="356" alt="hamza shoukat's Dev Card"/>
+      </a>
 
     </motion.p>
  
